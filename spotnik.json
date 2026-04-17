@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/initgrep-apps/spotnik/releases/download/v1.1.0/spotnik_1.1.0_windows_amd64.zip",
+            "bin": [
+                "spotnik.exe"
+            ],
+            "hash": "c90700cdbc5d385c18d2aac17bf1e8594b57a2f56ecf82b79bfe289babee9321"
+        }
+    },
+    "homepage": "https://github.com/initgrep-apps/spotnik",
+    "license": "MIT",
+    "description": "A terminal Spotify client for developers. Keyboard-driven, single binary."
+}
